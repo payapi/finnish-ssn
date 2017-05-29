@@ -9,7 +9,7 @@ Currently used for validating a Finnish Social Security Number.
 ## Usage
 
 ```
-require('finnish-ssn-util');
+var FinnishSsn = require('finnish-ssn-util');
 if(new FinnishSsn().validate('121212-1212')) {
   // yep
 } else {
