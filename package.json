@@ -1,0 +1,26 @@
+{
+  "name": "finnish-ssn",
+  "version": "1.0.0",
+  "description": "Util for Finnish SSN",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/payapi/finnish-ssn.git"
+  },
+  "keywords": [
+    "Finnish",
+    "Social",
+    "Security",
+    "Number",
+    "Validator"
+  ],
+  "author": "PayApi DevTeam <devteam@payapi.io> (https://payapi.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/payapi/finnish-ssn/issues"
+  },
+  "homepage": "https://github.com/payapi/finnish-ssn#readme"
+}
