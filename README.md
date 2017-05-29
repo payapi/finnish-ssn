@@ -4,7 +4,7 @@ Currently used for validating a Finnish Social Security Number.
 
 ## Installation
 
-´npm i -S finnish-ssn`
+    npm i -S finnish-ssn
 
 ## Usage
 
