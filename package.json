@@ -2,7 +2,7 @@
   "name": "finnish-ssn-util",
   "version": "1.0.2",
   "description": "Util for Finnish SSN",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
