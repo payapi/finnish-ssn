@@ -1,6 +1,6 @@
 {
   "name": "finnish-ssn-util",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Util for Finnish SSN",
   "main": "lib/index.js",
   "scripts": {
