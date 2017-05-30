@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/payapi/finnish-ssn-util/issues"
   },
-  "homepage": "https://github.com/payapi/finnish-ssn-util#readme"
+  "homepage": "https://github.com/payapi/finnish-ssn-util#readme",
+  "dependencies": {
+    "debug": "^2.6.8"
+  }
 }
